@@ -1,0 +1,41 @@
+p{
+	color:peachpuff;
+}
+body{
+	background-color:#13232f;
+}
+a{
+	border:1px solid grey;
+	padding:10px 20px;
+	color:#3ac162;
+}
+a:hover{
+	color:orange;
+}
+input[type="submit"]{
+	 margin:auto;
+	 padding:6px 30px;
+}
+ul{
+	margin:60px 400px;
+}
+ul li{
+	display:inline;
+}
+ul li a{
+	text-decoration:none;
+	border:1px solid grey;
+	padding:10px 20px;
+	color:white;
+}
+ul li a:hover{
+	color:orange;
+}
+fieldset{
+	 text-align:left;
+	 width:500px;
+	 height:300px;
+	 margin: 20px auto;
+	 font-size:15px;
+	 padding-left:20px;
+}
